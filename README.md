@@ -1,4 +1,9 @@
-# Cordova Browser-Sync Plugin - 24-11-2019
+# Note - 16-06-2021
+
+Unfortunately, this plugin is no longer maintained since I moved to another mobile framework and it's hard for me to keep it up-to-date.
+Please feel free to fork and suit yourselves or help all those in need.
+
+# Cordova Browser-Sync Plugin
 
 This is a fork of original Cordova Browser-Sync Plugin 1.1.0, developed by nparashuram.
 The purpose of this fork is to become compatible with latest version of Apache Cordova.
