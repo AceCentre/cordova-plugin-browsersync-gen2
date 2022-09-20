@@ -25,11 +25,17 @@
         "url": "https://github.com/DimitrisRK/cordova-plugin-browsersync-gen2.git"
     },
     "dependencies": {
-        "browser-sync": "^2.26.0",
+        "browser-sync": "2.26.13",
+        "browser-sync-client": "2.26.13",
+        "browser-sync-ui": "2.26.13",
         "cheerio": "^1.0.0-rc.2",
         "csp-parse": "0.0.2",
         "elementtree": "^0.1.6",
         "glob": "^7.1.2",
         "plist": "^3.0.0"
+    },
+    "resolutions": {
+        "browser-sync-client" : "2.26.13",
+        "browser-sync-ui" : "2.26.13"
     }
 }
